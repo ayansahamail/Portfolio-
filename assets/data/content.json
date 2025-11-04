@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "title": "Welcome to My Portfolio",
+    "subtitle": "I'm a Web Developer",
+    "description": "Creating beautiful and functional websites."
+  },
+  "projects": [
+    {
+      "title": "Project One",
+      "description": "A brief description of project one.",
+      "link": "https://example.com/project-one"
+    },
+    {
+      "title": "Project Two",
+      "description": "A brief description of project two.",
+      "link": "https://example.com/project-two"
+    },
+    {
+      "title": "Project Three",
+      "description": "A brief description of project three.",
+      "link": "https://example.com/project-three"
+    }
+  ],
+  "contact": {
+    "email": "contact@example.com",
+    "socials": {
+      "github": "https://github.com/username",
+      "linkedin": "https://linkedin.com/in/username"
+    }
+  }
+}
